@@ -1,16 +1,23 @@
-# appclima
+# 🌤 App de Clima
+Descripción
 
-A new Flutter project.
+App que muestra el clima en tiempo real de cualquier ciudad, incluyendo temperatura, condición del clima y nombre de la ciudad.
 
-## Getting Started
+Funcionalidades
 
-This project is a starting point for a Flutter application.
+Buscar y cambiar ciudad.
 
-A few resources to get you started if this is your first Flutter project:
+Mostrar temperatura y estado del clima.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Conexión segura con API (HTTPS y API Key protegida).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Documentación rápida
+
+getWeather(city): Obtiene datos del clima.
+
+displayWeather(data): Muestra los datos en pantalla.
+
+Enlaces
+
+Repositorio: https://github.com/Blurryfac2/AppClima
+
